@@ -1,6 +1,6 @@
 # Snake 
 
-A simple snake game running in C++ in SFML UI
+Clássico jogo Snake implementado em C++ utilizando a biblioteca de SFML
 
 ## Descrição
 
@@ -10,7 +10,7 @@ Jogo desenvolvido em C++ utilizando a biblioteca SFML, como projeto final da dis
 
 * Visual Studio Code
 * SFML library
-* compilador g++
+* Compilador g++
 
 ### Instalação e execução
 
