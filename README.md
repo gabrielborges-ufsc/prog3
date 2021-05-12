@@ -21,8 +21,8 @@ O comando para a compilação é 'g++ main.cpp snake.cpp -g -o snake -lsfml-grap
 
 ## Autores
 
-Gabriel Borges da Silva
-Marielly Alberti
+*Gabriel Borges da Silva
+*Marielly Alberti
 
 ## License
 
